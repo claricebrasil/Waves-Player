@@ -1,40 +1,27 @@
-![Logo of the project](http://logo_link)
+![Logo of the project](https://github.com/claricebrasil/music-player/blob/main/public/readme_images/logo.png)
  
-## Name_of_the_project
+## Waves
  
-... Description
- 
- 
-## Technology 
- 
-Here are the technologies used in this project.
- 
-* Ruby version  x.x.x
-* Rails version x.x.x
-* ...
+Waves é um player de música com layout responsivo desenvolvido com ReactJS. O projeto foi desenvolvido durante um desafio do curso "developedbyed". Na criação do projeto "simulei" uma API estática dentro do próprio arquivo, utilizando algumas músicas e imagens do site Chillhop.
  
  
-## Services Used
+## Tecnologias
+ 
+As tecnologias que usei para realizar esse projeto foram:
+ 
+* ReactJS
+* SCSS
+ 
+ 
+## Serviços usados
  
 * Github
-* ...
  
  
-## Ruby Gems
-...
+## O aplicativo
  
-## Getting started
- 
-* To install gems:
->    $ bundle install
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
-* To run the project:
->    $ rails s
- 
-## How to use
- 
-Here will be the images and descriptions. Principal content.
+### 1 - Página principal (desktop)
+![Main_Screen](https://github.com/claricebrasil/music-player/blob/main/public/readme_images/initial_page_screen_1440.png)
  
  
 ## Features
