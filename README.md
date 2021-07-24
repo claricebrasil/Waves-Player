@@ -22,25 +22,28 @@ As tecnologias que usei para realizar esse projeto foram:
  
 ### 1 - Página principal (desktop)
 ![Main_Screen](https://github.com/claricebrasil/music-player/blob/main/public/readme_images/initial_page_screen_1440.png)
+
+### 2 - Página com a biblioteca de músicas aberta (desktop)
+![Library_Screen](https://github.com/claricebrasil/music-player/blob/main/public/readme_images/library_open_page.png)
+
+### 3 - Página com a biblioteca de músicas aberta e música selecionada tocando (desktop)
+![Music_Playing_Screen](https://github.com/claricebrasil/music-player/blob/main/public/readme_images/selected_music_playing.png)
+
+### 4 - Página principal (mobile)
+![Main_Screen_Mobile](https://github.com/claricebrasil/music-player/blob/main/public/readme_images/initial_page_screen_mobile.png)
+
+### 5 - Página com biblioteca de músicas aberta (mobile)
+![Library_Screen_Mobile](https://github.com/claricebrasil/music-player/blob/main/public/readme_images/library_open_mobile.png)
  
  
-## Features
+## Características
  
-  - Here will be the features.
- 
- 
-## Links
- 
-  - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
- 
- 
-## Versão
- 
-1.0.0.0
+  - Tocar músicas adicionadas na biblioteca
+  - Layout responsivo
+  - Play/pause adicionados
+  - Passar e voltar músicas
+  - Barra de status da música com cores características da imagem do album
+  - Botão de arrastar para adiantar ou voltar o tempo da música
  
  
 ## Autores
